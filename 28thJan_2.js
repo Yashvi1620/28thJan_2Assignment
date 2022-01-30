@@ -9,7 +9,7 @@ console.log(a);
 console.log(b);
 
 console.log(c);
-for(i=0;i<num;i++)
+for(i=4;i<=num;i++)
 {
    a=b;
    b=c;
